@@ -1,0 +1,2 @@
+Hello Git!
+This my first line of code for file1
