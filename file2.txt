@@ -1,2 +1,4 @@
 Hello Git!
 This my first line of code for file2
+I will like to make some changes to this file2
+And commit it 
